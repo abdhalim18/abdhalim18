@@ -7,12 +7,12 @@
      wordmark: python scripts/make_wordmark_svg.py --mode rock
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>al@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
+<td valign="top"><img src="./al-ascii.svg" width="370" alt="Al — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="AL — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
@@ -22,14 +22,14 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+<h3><code>al@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Al's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<h3><code>al@github ~ $ ./links.sh</code></h3>
 
 <p><b>Fullstack Developer · AI Builder · Instructor</b></p>
 
