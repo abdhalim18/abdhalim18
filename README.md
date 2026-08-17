@@ -36,7 +36,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdul--halim--portfolio.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://abdul-halim-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhmmd--abdul--halim---0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmmd-abdul-halim-/)
 [![Instagram](https://img.shields.io/badge/Instagram-skinnyxal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skinnyxal/)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+
 
 <br>
 
