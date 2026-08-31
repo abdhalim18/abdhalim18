@@ -1,22 +1,22 @@
 {
   "username": "abdhalim18",
-  "generated_at": "2026-08-30T11:56:37Z",
+  "generated_at": "2026-08-31T13:54:45Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-08-31"
+  },
+  "total_contributions": 135,
+  "active_days": 53,
+  "avg_per_active_day": 2.5,
+  "current_streak": {
+    "length": 14,
+    "start": "2026-08-17",
     "end": "2026-08-30"
   },
-  "total_contributions": 134,
-  "active_days": 52,
-  "avg_per_active_day": 2.6,
-  "current_streak": {
-    "length": 13,
-    "start": "2026-08-17",
-    "end": "2026-08-29"
-  },
   "longest_streak": {
-    "length": 13,
+    "length": 14,
     "start": "2026-08-17",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-08-17",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 26
+      "total": 27
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
